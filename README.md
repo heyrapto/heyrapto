@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Caleb Kalejaiye
 
-## Skills & Tech Stack
-
-&nbsp;
+---
 
 ### Blockchain Development
 
