@@ -1,39 +1,77 @@
-# 👋 Hi, I’m Caleb Kalejaiye
+<h1 align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&Left=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Caleb+|+Rapto;" />
+</h1>
+<h3 align="left">Full-Stack Developer | Blockchain Engineer | Backend Engineer | AI Specialist </h3>
+<br/>
+<div align="left">
 
----
+ 🔭 Currently architecting decentralized applications that bridge Web3 with conventional platforms
+ 
+ 🌱 Specializing in secure, performant, and scalable digital solutions that solve complex problems
+ 
+ 💬 Ask me about **React, Next.js, TypeScript, MongoDB, Node.js, Express.js, Solidity, Rust, FunC, Ethers.js, Foundry, Wagmi or anything [here](mailto:kalejaiyecaleb@gmail.com)**
 
-### Blockchain Development
+ ⚡ Fun fact: I build open-source problem-solving projects and develop ethical web scraping solutions in my free time
+ 
+ </div>
+ 
+<div align="left"> 
+  <a href="mailto:kalejaiyecaleb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://rapto.vercel.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-- Solidity, Hardhat, Foundry
-- Ethereum, EVM-compatible chains
-- Smart contract architecture and audits
+ <hr/>
+ 
+<h2 align="left">Languages & Tools ⚒️</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,prisma,solidity,anchor" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,github,git,vercel,figma,nodejs,express,rust" /><br>
+</div>
 
-### AI & Intelligent Agents
+<br/>
+<hr/>
 
-- Conversational agents using Gemini and OpenAI APIs
-- AI-powered developer tools (e.g., automated portfolio analysis, task scheduling)
-- Prompt engineering, API orchestration, context management
+<h2 align="left">Development Philosophy</h2>
 
-### Frontend Engineering
+<div align="left">
+  <p>I approach software development as both art and science—crafting elegant solutions that balance technical excellence with user experience.</p>
+  
+  <ul>
+    <li><strong>Security:</strong> Building systems with robust protection against vulnerabilities</li>
+    <li><strong>Performance:</strong> Optimizing for speed and efficiency at every layer</li>
+    <li><strong>Scalability:</strong> Designing architecture that grows seamlessly with demand</li>
+  </ul>
+</div>
 
-- React.js, Next.js, TypeScript
-- TailwindCSS, Zustand, Clerk
+<br/>
+<hr/>
 
-### Backend & Tooling
+<h2 align="left">Open Source Contributions</h2>
 
-- Node.js, Express.js, REST APIs
-- Web3.js, ethers.js, WalletConnect
-- Prisma, MongoDB, Firebase
+<div align="left">
+  <p>Active contributor to the open source ecosystem, with particular focus on:</p>
+  
+  <ul>
+    <li>Problem-solving utilities and libraries</li>
+    <li>Developer tooling for blockchain integration</li>
+    <li>AI-powered application frameworks</li>
+    <li>Ethical web scraping solutions</li>
+  </ul>
+</div>
 
-### Developer Experience
+<br/>
+<hr/>
 
-- Custom developer tools and extensions
-- Documentation, technical tutorials, onboarding guides
-- Testing with Jest and Playwright
+<h2 align="left">Coding Activity</h2>
 
----
-
-Always building with purpose. Open to collaboration and problem-solving opportunities.
 
 ### GitHub Trophy
 
