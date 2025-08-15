@@ -2,8 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&Left=true&width=500&height=70&duration=4000&lines=Hi+There!👋;I'm+Caleb+|+Rapto;" />
 </h1>
 <h3 align="left">Full-Stack Developer | Blockchain Engineer | Backend Engineer | AI Specialist </h3>
-<br/>
-![](https://komarev.com/ghpvc/?username=heyrapto&color=green) <br />
+<br />
 <div align="left">
 
  🔭 Currently architecting decentralized applications that bridge Web3 with conventional platforms
@@ -77,6 +76,8 @@
 ### GitHub Trophy
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=heyrapto&theme=nord_dark)
+
+![](https://komarev.com/ghpvc/?username=heyrapto&color=green) <br />
 
 ## 📊 More Stats
 
