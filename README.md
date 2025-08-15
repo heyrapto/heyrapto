@@ -3,6 +3,7 @@
 </h1>
 <h3 align="left">Full-Stack Developer | Blockchain Engineer | Backend Engineer | AI Specialist </h3>
 <br/>
+![](https://komarev.com/ghpvc/?username=heyrapto&color=green) <br />
 <div align="left">
 
  🔭 Currently architecting decentralized applications that bridge Web3 with conventional platforms
@@ -76,8 +77,6 @@
 ### GitHub Trophy
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=heyrapto&theme=nord_dark)
-
-![](https://komarev.com/ghpvc/?username=heyrapto&color=green) <br />
 
 ## 📊 More Stats
 
