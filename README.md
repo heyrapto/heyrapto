@@ -77,7 +77,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=heyrapto&theme=nord_dark)
 
-![](https://komarev.com/ghpvc/?username=Elishaokon13&color=green) <br />
+![](https://komarev.com/ghpvc/?username=heyrapto&color=green) <br />
 
 ## 📊 More Stats
 
