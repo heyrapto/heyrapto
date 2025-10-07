@@ -1,6 +1,6 @@
 # 👨‍💻 HI, I'M CALEB | RAPTOMI
 
-**Software Engineer**
+**Software Engineer since Birth**
 
 > *“Building the future—one scalable, intelligent, and decentralized system at a time.”*
 
