@@ -1,6 +1,6 @@
 # 👨‍💻 HI, I'M CALEB | RAPTOMI
 
-**Full-Stack Developer | Frontend Engineer | Blockchain Engineer | AI Specialist**
+**Software Engineer**
 
 > *“Building the future—one scalable, intelligent, and decentralized system at a time.”*
 
