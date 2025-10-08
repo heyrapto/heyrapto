@@ -69,8 +69,6 @@ I approach software as both **art and engineering**—balancing creativity with 
 ---
 
 ## 📊 GitHub Activity
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=heyrapto\&theme=nord_dark)
 ![](https://komarev.com/ghpvc/?username=heyrapto\&color=green)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyrapto\&theme=default)
