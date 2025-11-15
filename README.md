@@ -46,10 +46,10 @@ Whether it’s a blockchain protocol, a SaaS platform, or an AI-powered framewor
 ---
 
 ## 🌍 Featured Open Source Projects
-
+<!--
 * 🔗 [**EthOS**](#) – Decentralized identity framework built on EVM-compatible chains
 * ⚙️ [**ScrapX**](#) – Ethical scraping utility for structured web data
-* 🧠 [**Auralink**](#) – AI-assisted web framework for modular automation
+* 🧠 [**Auralink**](#) – AI-assisted web framework for modular automation -->
 * 🌐 [**Rapto.dev**](https://rapto.vercel.app) – Personal portfolio and open lab for projects
 
 ---
