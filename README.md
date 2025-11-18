@@ -26,12 +26,12 @@ Whether it’s a blockchain protocol, a SaaS platform, or an AI-powered framewor
 
 ## 🧠 Core Tech Stack
 
-* **Languages:** TypeScript, JavaScript, Rust, Solidity
+* **Languages:** TypeScript, JavaScript, Solidity
 * **Frameworks:** React.js, Next.js, Node.js, Express.js
-* **Databases:** MongoDB, PostgreSQL, Prisma
-* **Blockchain & Web3:** Ethers.js, Wagmi, Foundry, FunC, Anchor
+* **Databases:** MongoDB
+* **Blockchain & Web3:** Ethers.js, Wagmi, Foundry, FunC
 * **AI / Automation:** Ethical scraping, ML APIs, data-driven tools
-* **Dev Tools:** Docker, GitHub Actions, Vercel, Figma
+* **Dev Tools:** GitHub Actions, Vercel, Figma
 
 ---
 
