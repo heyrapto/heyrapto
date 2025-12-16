@@ -1,97 +1,107 @@
 # 👨‍💻 HI, I'M CALEB | RAPTOMI
-
-**Software Engineer Since Birth**
-
-> *“Building the future—one scalable, intelligent, and decentralized system at a time.”*
+**Full-Stack Software Engineer**
+> *"Building scalable, intelligent systems across web, mobile, blockchain."*
 
 ---
 
 ## 🚀 About Me
 
-I’m a **full-stack developer** passionate about crafting intelligent, decentralized, and high-performance systems. My work spans **Web3 architectures**, **AI-integrated applications**, and **secure web platforms** that bridge innovation with usability.
+I'm a **full-stack software engineer** who builds end-to-end solutions across the entire technology stack. From crafting responsive frontends and mobile experiences to architecting robust backend systems and integrating blockchain technology, I deliver **scalable, secure, and maintainable** applications.
 
-From building scalable web solutions to architecting blockchain-powered dApps, I focus on **clarity, performance, and reliability**—delivering code that’s not just functional, but elegant.
+My expertise spans **modern web development**, **mobile applications**, **backend infrastructure**, and **blockchain integration**—allowing me to tackle complex technical challenges from any angle.
 
 I thrive on:
+- Building full-stack applications with modern frameworks and best practices
+- Architecting scalable backend systems and APIs
+- Developing mobile and web applications with excellent UX
+- Integrating blockchain technology into real-world applications
+- Writing clean, testable, and maintainable code
+- Contributing to open-source and developer communities
 
-* Architecting decentralized and scalable applications
-* Developing clean, maintainable, and testable frontends
-* Creating secure smart contract integrations
-* Building AI-powered digital solutions
-* Contributing to open-source and developer tooling ecosystems
-
-Whether it’s a blockchain protocol, a SaaS platform, or an AI-powered framework, I bring **precision, creativity, and a deep engineering mindset** to every project.
-
----
-
-## 🧠 Core Tech Stack
-
-* **Languages:** TypeScript, JavaScript, Solidity
-* **Frameworks:** React.js, Next.js, Node.js, Express.js
-* **Databases:** MongoDB
-* **Blockchain & Web3:** Ethers.js, Wagmi, Foundry, FunC
-* **AI / Automation:** Ethical scraping, ML APIs, data-driven tools
-* **Dev Tools:** GitHub Actions, Vercel, Figma
+Whether it's a SaaS platform, a mobile app, a blockchain-integrated service, or a high-performance API, I bring **technical precision and product thinking** to every project.
 
 ---
 
-## 🔧 Some Highlights
+## 🛠️ Tech Stack
 
-* 🧱 **Architected decentralized applications** integrating smart contracts and Web3 APIs
-* 🤖 **Developed ethical AI & web scraping utilities** for open-source ecosystems
-* ⚙️ **Engineered scalable, high-performance full-stack applications**
-* 💡 **Contributed to developer tooling** improving blockchain and AI integrations
-* 🔍 **Focused on security-first development** and optimized system performance
+### Frontend & Mobile
+- **Languages:** TypeScript, JavaScript
+- **Web Frameworks:** React.js, Next.js, Vue.js
+- **Mobile:** React Native, Progressive Web Apps (PWA)
+- **Styling:** Tailwind CSS, CSS Modules, Styled Components
+- **State Management:** Redux, Zustand, React Query
+
+### Backend & Infrastructure
+- **Runtime:** Node.js, Express.js
+- **Databases:** MongoDB, Redis
+- **APIs:** RESTful, GraphQL, WebSockets
+- **Authentication:** JWT, OAuth, Passport.js
+- **Cloud & DevOps:** Vercel, AWS, Docker, GitHub Actions
+
+### Blockchain & Web3
+- **Smart Contracts:** Solidity, FunC
+- **Web3 Libraries:** Ethers.js, Wagmi, Web3.js
+- **Tools:** Foundry, Hardhat, Remix
+- **Networks:** Ethereum, Polygon, TON
+
+### AI & Agents
+- **AI Agents:** Autonomous systems, multi-agent workflows
+- **Integrations:** OpenAI API, ML models, LangChain
+- **Tools:** Web scraping, automation scripts, data pipelines
 
 ---
 
-## 🌍 Featured Open Source Projects
-<!--
-* 🔗 [**EthOS**](#) – Decentralized identity framework built on EVM-compatible chains
-* ⚙️ [**ScrapX**](#) – Ethical scraping utility for structured web data
-* 🧠 [**Auralink**](#) – AI-assisted web framework for modular automation -->
-* 🌐 [**Rapto.dev**](https://rapto.vercel.app) – Personal portfolio and open lab for projects
+## 🔧 What I Build
+
+- 🌐 **Full-Stack Web Applications** – End-to-end SaaS platforms and web apps
+- 📱 **Mobile Applications** – Cross-platform mobile experiences with React Native
+- 🔗 **Blockchain-Integrated Apps** – dApps with smart contract backends
+- ⚙️ **Backend Systems** – Scalable APIs, microservices, and server infrastructure
+- 🤖 **AI Agents** – Autonomous systems and intelligent automation
+- 🛠️ **Developer Tools** – Open-source utilities and frameworks
+
+---
+
+## 🌍 Featured Projects
+
+- 🎨 [**Header.io**](https://bannerly.vercel.app/) – Banner creation tool with drag-and-drop, templates, sticker kit, and project management dashboard
+- 💬 [**Blockgram**](https://blitzgramm.vercel.app/) – Blockchain-powered Telegram client ($BGRAM) with in-chat crypto transfers and AI features
+- 💸 [**Numpay**](https://numpay-new-landing.vercel.app) – Landing page for seamless global money transfers using just a phone number
+- 🔒 [**Steezchat**](https://steezchat.vercel.app) – Private, anonymous chat with end-to-end encryption for secure communication
+- 🌐 [**Rapto.dev**](https://rapto.vercel.app) – Personal portfolio and development lab
 
 ---
 
 ## 🌱 Development Philosophy
 
-> “Code is only great when it’s human, scalable, and secure.”
+> "Great software is scalable, secure, and built with the user in mind."
 
-I approach software as both **art and engineering**—balancing creativity with reliability.
+I approach development with a **product-first mindset**—balancing technical excellence with real-world usability.
 
-**Core principles I build by:**
+**Core principles:**
+- 🛡️ **Security First** – Built-in protection from day one
+- ⚡ **Performance** – Optimized for speed and efficiency
+- 🎯 **User-Centric** – Focused on experience and accessibility
+- 🌐 **Scalability** – Architected to grow with demand
+- 🧪 **Quality** – Well-tested, maintainable, documented code
 
-* 🛡️ **Security** – Guard against vulnerabilities from the first commit
-* ⚡ **Performance** – Optimize every layer for speed and scalability
-* 🌐 **Scalability** – Architect systems that evolve, not just survive
+---
+
+## 📊 GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=heyrapto&color=green)
 
 ---
 
-## 📊 GitHub Activity
-![](https://komarev.com/ghpvc/?username=heyrapto\&color=green)
-
-
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyrapto\&langs_count=5\&theme=tokyonight\&layout=compact)](https://github.com/heyrapto) 
-<br />  -->
-<!--  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyrapto\&theme=default) -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyrapto)](https://git.io/streak-stats) -->
-
-<!-- [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyrapto\&theme=dracula)](https://github.com/heyrapto)
-![Trophies](https://github-profile-trophy.vercel.app/?username=heyrapto\&theme=nord_dark) -->
-
----
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyrapto\&langs_count=5\&theme=tokyonight\&layout=compact)](https://github.com/heyrapto) <br />  --> <!--  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyrapto\&theme=default) --> <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyrapto)](https://git.io/streak-stats) --> <!-- [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyrapto\&theme=dracula)](https://github.com/heyrapto) ![Trophies](https://github-profile-trophy.vercel.app/?username=heyrapto\&theme=nord_dark) --> ---
 
 ## 📡 Let's Connect
 
-* 🌐 [Portfolio](https://rapto.vercel.app)
-* 💼 [LinkedIn](#)
-* 🐦 [X (Twitter)](https://x.com/heyrapto)
-* 📬 [Email](mailto:kalejaiyecaleb@gmail.com)
+- 🌐 [Portfolio](https://rapto.vercel.app)
+- 💼 [LinkedIn](#)
+- 🐦 [X (Twitter)](https://x.com/heyrapto)
+- 📬 [Email](mailto:kalejaiyecaleb@gmail.com)
 
 ---
 
-*Open to collaborations in Web3, AI, and high-performance systems—let’s build the future together.* 🚀
-
----
+*Open to collaborations on full-stack applications, blockchain integration, and scalable systems—let's build something great together.* 🚀
