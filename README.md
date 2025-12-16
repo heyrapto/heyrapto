@@ -91,8 +91,6 @@ I approach development with a **product-first mindset**—balancing technical ex
 
 ![](https://komarev.com/ghpvc/?username=heyrapto&color=green)
 
----
-
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyrapto\&langs_count=5\&theme=tokyonight\&layout=compact)](https://github.com/heyrapto) <br />  --> <!--  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyrapto\&theme=default) --> <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyrapto)](https://git.io/streak-stats) --> <!-- [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyrapto\&theme=dracula)](https://github.com/heyrapto) ![Trophies](https://github-profile-trophy.vercel.app/?username=heyrapto\&theme=nord_dark) --> ---
 
 ## 📡 Let's Connect
@@ -104,4 +102,4 @@ I approach development with a **product-first mindset**—balancing technical ex
 
 ---
 
-*Open to collaborations on full-stack applications, blockchain integration, and scalable systems—let's build something great together.* 🚀
+*Open to collaborations, let's build something great together.* 🚀
