@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Caleb | Raptomi
 
-**Full-Stack Engineer • Blockchain Developer • AI Agent Builder**
+**Software Engineer**
 
 I build scalable web apps, mobile experiences, and blockchain-integrated systems that solve real problems.
 
