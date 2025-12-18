@@ -20,11 +20,11 @@ I focus on **clean code, performance, and user experience**, building things tha
 
 ## 🌍 Featured Projects
 
-- 🎨 [**Header.io**](https://bannerly.vercel.app/) – Banner creation tool with drag-and-drop, templates, and sticker kit
-- 💬 [**Blockgram**](https://blitzgramm.vercel.app/) – Blockchain-powered Telegram client with in-chat crypto and AI features
-- 💸 [**Numpay**](https://numpay-new-landing.vercel.app) – Landing page for global money transfers using phone numbers
-- 🔒 [**Steezchat**](https://steezchat.vercel.app) – Private, encrypted chat for secure communication
-- 🌐 [**Rapto.dev**](https://rapto.vercel.app) – Personal portfolio and project lab
+- [**Header.io**](https://bannerly.vercel.app/) – Banner creation tool with drag-and-drop, templates, and sticker kit
+- [**Blockgram**](https://blitzgramm.vercel.app/) – Blockchain-powered Telegram client with in-chat crypto and AI features
+- [**Numpay**](https://numpay-new-landing.vercel.app) – Landing page for global money transfers using phone numbers
+- [**Steezchat**](https://steezchat.vercel.app) – Private, encrypted chat for secure communication
+- [**Rapto.dev**](https://rapto.vercel.app) – Personal portfolio and project lab
 
 ## 🌐 Links
 
