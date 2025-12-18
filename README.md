@@ -4,13 +4,13 @@
 
 I build scalable web apps, mobile experiences, and blockchain-integrated systems that solve real problems.
 
-## What I Do
+## ⚡ What I Do
 
 I'm a full-stack software engineer who works across the entire stack: frontend, backend, blockchain, and mobile. I've built production apps serving thousands of users, shipped AI agents that automate complex workflows, and integrated Web3 features into real-world products.
 
 I focus on **clean code, performance, and user experience**, building things that work reliably and scale when they need to.
 
-## Core Skills
+## 🧩 Core Skills
 
 * **Frontend & Mobile:** React.js, Next.js, React Native, Vue.js, TypeScript, JavaScript, Tailwind CSS
 * **Backend:** Node.js (Express, NestJS), MongoDB, PostgreSQL, Redis, RESTful APIs, GraphQL, WebSockets
