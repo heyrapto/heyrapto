@@ -12,11 +12,11 @@ I focus on **clean code, performance, and user experience**, building things tha
 
 ## 🧩 Core Skills
 
-* **Frontend & Mobile:** React.js, Next.js, React Native, Vue.js, TypeScript, JavaScript, Tailwind CSS
-* **Backend:** Node.js (Express, NestJS), MongoDB, PostgreSQL, Redis, RESTful APIs, GraphQL, WebSockets
+* **Frontend & Mobile:** React.js, React Router Framework, Next.js, React Native, TypeScript, JavaScript, Tailwind CSS
+* **Backend:** Node.js (Express, Elysia), MongoDB, Redis, RESTful APIs, WebSockets
 * **Infrastructure:** Docker, Vercel, AWS, GitHub Actions
 * **Blockchain & Web3:** Solidity, FunC, Ethers.js, Wagmi, Foundry, Hardhat, Smart contract integration, dApps
-* **AI & Agents:** OpenAI API, LangChain, Autonomous agents, Multi-agent systems, Web scraping, Automation pipelines
+* **AI & Agents:** OpenAI API, Gemini API, Autonomous agents, Multi-agent systems, Web scraping, Automation pipelines
 
 ## Featured Projects
 
@@ -31,7 +31,7 @@ I focus on **clean code, performance, and user experience**, building things tha
 - **Portfolio:** [rapto.vercel.app](https://rapto.vercel.app)
 - **X (Twitter):** [x.com/heyrapto](https://x.com/heyrapto)
 - **Email:** [kalejaiyecaleb@gmail.com](mailto:kalejaiyecaleb@gmail.com)
-- **LinkedIn:** [Add your link](#)
+- **LinkedIn:** [linkdln.com/calebkalejaiye](#)
 
 ---
 
