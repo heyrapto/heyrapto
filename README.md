@@ -28,7 +28,7 @@ I focus on **clean code, performance, and user experience**, building things tha
 
 ## Links
 
-- **Portfolio:** [rapto.vercel.app](https://hayrapto.vercel.app)
+- **Portfolio:** [hayrapto.vercel.app](https://hayrapto.vercel.app)
 - **X (Twitter):** [x.com/heyrapto](https://x.com/heyrapto)
 - **Email:** [kalejaiyecaleb@gmail.com](mailto:kalejaiyecaleb@gmail.com)
 - **LinkedIn:** [linkdln.com/calebkalejaiye](#)
